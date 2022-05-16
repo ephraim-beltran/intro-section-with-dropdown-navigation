@@ -189,7 +189,7 @@ section {
         --padding-nav: 1.5rem;
         --padding-register: 1.3rem 1.5rem;
     }
-    .hamburger {
+    #navOpen, #navClose {
         display: none;
     }
     #nav-menu > li:nth-last-child(2) {
